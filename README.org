@@ -4,6 +4,6 @@ Lossless audio decoder written in common lisp
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/shamazmazum/easy-audio.git |
-| commit  | 661c67d                                           |
+| commit  | bc1d62e                                           |
 | systems | easy-audio                                        |
 |---------+---------------------------------------------------|
