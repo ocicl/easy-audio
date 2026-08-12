@@ -7,3 +7,4 @@ Lossless audio decoder written in common lisp
 | commit  | b10820a                                           |
 | systems | easy-audio                                        |
 |---------+---------------------------------------------------|
+ 
